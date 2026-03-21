@@ -11,7 +11,7 @@
 **[CS50P — Introduction to Programming with Python](https://www.youtube.com/watch?v=OvKCESUCWII&list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V)**
 Harvard's free Python course. Covers the fundamentals properly — functions, libraries, OOP, file I/O. Start here if you're new to Python or want a solid foundation before moving on.
 
-**[ArjanCodes — Software Design in Python](https://www.youtube.com/@ArjanCodes)**
+**[ArjanCodes — Software Design in Python](https://www.youtube.com/watch?v=CWYwz3iV1g0&list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N)**
 This is what separates engineers from hobbyists. Covers value objects, dataclasses, protocols, dependency injection, and clean architecture patterns. Watch this after CS50P.
 
 ---
